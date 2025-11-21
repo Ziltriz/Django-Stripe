@@ -200,4 +200,4 @@ docker-compose exec web python manage.py createsuperuser
 
 ## Авторы
 
-- **Ziltriz**: [Ваш GitHub](https://github.com/Ziltriz)
+- **Ziltriz**: (https://github.com/Ziltriz)
